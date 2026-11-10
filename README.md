@@ -36,7 +36,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | ✍️ [kaivarigal](https://github.com/helpRifan/kaivarigal) | Pen-plotter robot that writes text in my own handwriting | Python · PyTorch · OpenCV · FastAPI |
-| 🛸 **FLYORA** *(startup)* | My startup: autonomous drones for solar-panel inspection spot faults with a thermal camera, rescan them on their own and track how they get worse over time | ArduPilot · Raspberry Pi 5 · FLIR Lepton · YOLOv8 |
+| 🛸 **FLYORA** *(startup)* | My startup: autonomous drones for solar-panel inspection that spot faults with a thermal camera, rescan them on their own and track how they get worse over time | ArduPilot · Raspberry Pi 5 · FLIR Lepton · YOLOv8 |
 | 📈 **India Trader AI** | NSE day + swing trading research: news sentiment (FinBERT), a LightGBM model checked with walk-forward tests, a backtester that includes real broker costs, and daily paper trading with Discord/Telegram alerts. Live trading stays locked until paper results pass a statistics gate | Python · LightGBM · FinBERT · Streamlit |
 | 📱 **Life OS** | My personal tracker app: tasks, VTOP attendance, focus sessions, calendar and push reminders, installable on iPhone | React · Vite · Capacitor · Cloudflare Workers |
 | 🤖 **RC VIT Chennai** | Web platform for the Robotics Club, VIT Chennai: members, events, galleries | React · TypeScript · Tailwind · Express |
