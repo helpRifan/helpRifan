@@ -15,15 +15,6 @@
 
 <br/>
 
-<!-- Tech wall -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,fastapi,pytorch,opencv,html,css,git,github,linux,raspberrypi,arduino,discord,vscode,docker&perline=9&theme=dark" alt="tech stack" />
-  </a>
-</p>
-
-<br/>
-
 <!-- Typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -43,6 +34,12 @@
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=helpRifan&theme=tokyonight" alt="stats" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helpRifan&theme=tokyonight" alt="top languages" />
+</p>
+
+### 📈 Commit history
+
+<p align="center">
+  <img src="./assets/commit-history.svg" alt="Total commits over the years" width="100%" />
 </p>
 
 <p align="center">
