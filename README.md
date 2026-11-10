@@ -46,7 +46,7 @@ Hi, I'm **Rifan** , a student at VIT Chennai , i likes building things that move
 
 <p align="left">
   <a href="mailto:rifanajmal@gmail.com"><img src="https://img.shields.io/badge/Email-rifanajmal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/rifanstfu"><img src="https://img.shields.io/badge/Instagram-%40rifanstfu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/rifanstfu/"><img src="https://img.shields.io/badge/Instagram-%40rifanstfu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### 📊 GitHub stats
