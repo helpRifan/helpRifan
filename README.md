@@ -26,7 +26,7 @@
 
 -  Working on **[Kaivarigal](https://github.com/helpRifan/kaivarigal)**, a robot that writes on paper in my own handwriting (PyTorch + OpenCV + a pen plotter)
 -  Paper-trading Indian stocks with an ML + news model (**India Trader AI**)
--  Building **FLYORA**, an autonomous drone that inspects solar farms with edge AI
+-  Founder of **FLYORA**, a startup building autonomous drones that inspect solar farms with edge AI
 -  Building & Automating website and work at **[Robotics Club at VIT Chennai](https://rcvitc.in)**
 -  Into AI & ML, computer vision,Full stack development games, drones, embedded systems etc
 -  More at **[rifan.me](https://rifan.me)** (site is down)
@@ -36,7 +36,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | ✍️ [kaivarigal](https://github.com/helpRifan/kaivarigal) | Pen-plotter robot that writes text in my own handwriting | Python · PyTorch · OpenCV · FastAPI |
-| 🛸 **FLYORA** | Autonomous drone for solar-panel inspection: spots faults with a thermal camera, rescans them on its own and tracks how they get worse over time (TransVIT 2026) | ArduPilot · Raspberry Pi 5 · FLIR Lepton · YOLOv8 |
+| 🛸 **FLYORA** *(startup)* | My startup: autonomous drones for solar-panel inspection spot faults with a thermal camera, rescan them on their own and track how they get worse over time | ArduPilot · Raspberry Pi 5 · FLIR Lepton · YOLOv8 |
 | 📈 **India Trader AI** | NSE day + swing trading research: news sentiment (FinBERT), a LightGBM model checked with walk-forward tests, a backtester that includes real broker costs, and daily paper trading with Discord/Telegram alerts. Live trading stays locked until paper results pass a statistics gate | Python · LightGBM · FinBERT · Streamlit |
 | 📱 **Life OS** | My personal tracker app: tasks, VTOP attendance, focus sessions, calendar and push reminders, installable on iPhone | React · Vite · Capacitor · Cloudflare Workers |
 | 🤖 **RC VIT Chennai** | Web platform for the Robotics Club, VIT Chennai: members, events, galleries | React · TypeScript · Tailwind · Express |
