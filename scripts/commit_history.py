@@ -100,7 +100,7 @@ def render(user, points):
         out.append(f'<line x1="{L}" y1="{yy:.1f}" x2="{W - R}" y2="{yy:.1f}" stroke="#2f3549" stroke-dasharray="4 4"/>')
         out.append(f'<text x="{L - 10}" y="{yy + 4:.1f}" fill="#787c99" font-size="12" text-anchor="end">{k:,}</text>')
     for i, (mo, _) in enumerate(cum):
-        if mo.month == 1 or i == 0:
+        if mo.month == 1 or (i == 0 and mo.month <= 6):  # skip first label if Jan is too close
             xx = x(i)
             out.append(f'<line x1="{xx:.1f}" y1="{T}" x2="{xx:.1f}" y2="{T + ph}" stroke="#2f3549"/>')
             out.append(f'<text x="{xx:.1f}" y="{T + ph + 22}" fill="#787c99" font-size="12" text-anchor="middle">{mo.year}</text>')
