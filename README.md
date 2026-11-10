@@ -24,10 +24,14 @@
 
 ### 🧑‍💻 About me
 
+Hi, I'm **Rifan** 👋, a student at VIT Chennai who likes building things that move, think, or both: robots, drones, ML models and the apps around them. I learn by making stuff and breaking it. Off the keyboard, I'm a big cat person 🐈.
+
+**What I'm up to:**
+
 -  Paper-trading Indian stocks with an ML + news model (**India Trader AI**)
 -  Founder of **FLYORA**, a startup building autonomous drones that inspect solar farms with edge AI
 -  Building & Automating website and work at **[Robotics Club at VIT Chennai](https://rcvitc.in)**
--  Into AI & ML, computer vision,Full stack development games, drones, embedded systems etc
+-  Into AI & ML, computer vision, full-stack development, games, drones, embedded systems etc
 -  More at **[rifan.me](https://rifan.me)** (site is down)
 
 ### 🛠️ Projects
