@@ -25,6 +25,7 @@
 ### 🧑‍💻 About me
 
 -  Working on **[Kaivarigal](https://github.com/helpRifan/kaivarigal)**, a robot that writes on paper in my own handwriting (PyTorch + OpenCV + a pen plotter)
+-  Paper-trading Indian stocks with an ML + news model (**India Trader AI**)
 -  Building **FLYORA**, an autonomous drone that inspects solar farms with edge AI
 -  Building & Automating website and work at **[Robotics Club at VIT Chennai](https://rcvitc.in)**
 -  Into AI & ML, computer vision,Full stack development games, drones, embedded systems etc
@@ -36,12 +37,14 @@
 |---|---|---|
 | ✍️ [kaivarigal](https://github.com/helpRifan/kaivarigal) | Pen-plotter robot that writes text in my own handwriting | Python · PyTorch · OpenCV · FastAPI |
 | 🛸 **FLYORA** | Autonomous drone for solar-panel inspection: spots faults with a thermal camera, rescans them on its own and tracks how they get worse over time (TransVIT 2026) | ArduPilot · Raspberry Pi 5 · FLIR Lepton · YOLOv8 |
-| 📱 Life OS, my personal tracker app: tasks, VTOP attendance, focus sessions, calendar and push reminders, installable on iPhone | React · Vite · Capacitor · Cloudflare Workers |
-| 🤖 Web platform for the Robotics Club, VIT Chennai: members, events, galleries | React · TypeScript · Tailwind · Express |
+| 📈 **India Trader AI** | NSE day + swing trading research: news sentiment (FinBERT), a LightGBM model checked with walk-forward tests, a backtester that includes real broker costs, and daily paper trading with Discord/Telegram alerts. Live trading stays locked until paper results pass a statistics gate | Python · LightGBM · FinBERT · Streamlit |
+| 📱 **Life OS** | My personal tracker app: tasks, VTOP attendance, focus sessions, calendar and push reminders, installable on iPhone | React · Vite · Capacitor · Cloudflare Workers |
+| 🤖 **RC VIT Chennai** | Web platform for the Robotics Club, VIT Chennai: members, events, galleries | React · TypeScript · Tailwind · Express |
 | 🧩 [catche](https://github.com/helpRifan/catche) | Chrome extension that solves VTOP login captchas, fully offline | JavaScript |
 | 📍 [attendance-app](https://github.com/helpRifan/attendance-app) | Role-based attendance tracker with GPS geofencing and live admin dashboards | TypeScript |
 | 💉 [Insulin-Dose-Tracker](https://github.com/helpRifan/Insulin-Dose-Tracker) | Insulin logger hardware + web app with AI-driven advice | Full-stack · hardware |
-| There is a lot which are private for now
+
+<sub>…and a lot more that's private for now.</sub>
 
 ### 📊 GitHub stats
 
