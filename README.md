@@ -18,13 +18,12 @@
 <!-- Typing intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Rifan;I+build+bots%2C+robots+%26+ML+stuff;Currently%3A+a+handwriting+robot+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Rifan;I+build+bots%2C+robots+%26+ML+stuff" alt="Typing SVG" />
   </a>
 </p>
 
 ### 🧑‍💻 About me
 
--  Working on **[Kaivarigal](https://github.com/helpRifan/kaivarigal)**, a robot that writes on paper in my own handwriting (PyTorch + OpenCV + a pen plotter)
 -  Paper-trading Indian stocks with an ML + news model (**India Trader AI**)
 -  Founder of **FLYORA**, a startup building autonomous drones that inspect solar farms with edge AI
 -  Building & Automating website and work at **[Robotics Club at VIT Chennai](https://rcvitc.in)**
